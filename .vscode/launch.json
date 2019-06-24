@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BatTest",
+            "request": "launch",
+            "mainClass": "app.BatTest",
+            "projectName": "zookeeper"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GorillaTest",
             "request": "launch",
             "mainClass": "app.GorillaTest",
